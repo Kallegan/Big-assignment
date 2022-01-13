@@ -128,7 +128,6 @@ namespace FG.Assignment.Units.Enemy
         {
             Destroy(gameObject);
         }
-
     }
 
 }
